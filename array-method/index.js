@@ -13,7 +13,7 @@ const ageFilter = age.filter( function(age) {
 })
 console.log('Age Filter', ageFilter)
 
-// written in anonymoes arrow function, don't need () or {} since it's only one line
+// written in anonymous arrow function, don't need () or {} since it's only one line
 const ageFilter2 = age.filter(age => age > 30)
 console.log('Age > 30', ageFilter2)
 

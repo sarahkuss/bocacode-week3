@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Star Wars: New Hope",
+    "episode": 4,
+    "content": "First star wars movie.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Star Wars: New Hope",
+    "episode": 4,
+    "content": "First star wars movie.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg"
+    
+  }
+]
